@@ -12,7 +12,7 @@ e.g. https://apiv2.bitcoinaverage.com/indices/global/ticker/BTCUSD
 
 Here's a Build a  Bitcoin Ticker of implemented user stories:
 
-[Imgur](https://i.imgur.com/HsK7iXK.gifv)
+[img]https://i.imgur.com/HsK7iXK.gif[/img]
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).

@@ -69,6 +69,9 @@
 		63A618271C53C381007AF001 /* BitcoinTicker */ = {
 			isa = PBXGroup;
 			children = (
+				87CD4F57201CFB3200AF4675 /* Model */,
+				87CD4F56201CFB2B00AF4675 /* View */,
+				87CD4F55201CFB1500AF4675 /* Controller */,
 				63A618281C53C381007AF001 /* AppDelegate.swift */,
 				63A6182A1C53C381007AF001 /* ViewController.swift */,
 				63A6182C1C53C381007AF001 /* Main.storyboard */,
@@ -77,6 +80,27 @@
 				63A618341C53C381007AF001 /* Info.plist */,
 			);
 			path = BitcoinTicker;
+			sourceTree = "<group>";
+		};
+		87CD4F55201CFB1500AF4675 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		87CD4F56201CFB2B00AF4675 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		87CD4F57201CFB3200AF4675 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 		E47D7218117B1023BF05C062 /* Pods */ = {

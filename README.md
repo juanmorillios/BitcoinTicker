@@ -1,7 +1,7 @@
 # BitcoinTicker
 iOS Apps with Cocoapods, REST, APIs - Build a  Bitcoin Ticker | (Swift 4.0/Xcode 9)
 
-It is a small application that allows us to consult in real time the value of a bitcoin at the moment, you can select the currency, and automatically you will be able to see the result on screen.
+It is a small application that allows us to consult in real time the value of a bitcoin, you can select the currency and automatically you will be able to see the result on screen.
 
 This is the URL format for using the Bitcoin API to get the current value of Bitcoins in a particular currency.
 

@@ -72,11 +72,7 @@
 				87CD4F57201CFB3200AF4675 /* Model */,
 				87CD4F56201CFB2B00AF4675 /* View */,
 				87CD4F55201CFB1500AF4675 /* Controller */,
-				63A618281C53C381007AF001 /* AppDelegate.swift */,
-				63A6182A1C53C381007AF001 /* ViewController.swift */,
-				63A6182C1C53C381007AF001 /* Main.storyboard */,
 				63A6182F1C53C381007AF001 /* Assets.xcassets */,
-				63A618311C53C381007AF001 /* LaunchScreen.storyboard */,
 				63A618341C53C381007AF001 /* Info.plist */,
 			);
 			path = BitcoinTicker;
@@ -85,6 +81,8 @@
 		87CD4F55201CFB1500AF4675 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				63A6182A1C53C381007AF001 /* ViewController.swift */,
+				63A618281C53C381007AF001 /* AppDelegate.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -92,6 +90,8 @@
 		87CD4F56201CFB2B00AF4675 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				63A618311C53C381007AF001 /* LaunchScreen.storyboard */,
+				63A6182C1C53C381007AF001 /* Main.storyboard */,
 			);
 			path = View;
 			sourceTree = "<group>";
